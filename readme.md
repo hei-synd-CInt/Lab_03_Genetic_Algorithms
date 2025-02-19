@@ -21,6 +21,7 @@
 - Discuss which hyper-parameters you tested (e.g., varying number of generations, mutation rate, etc.) and their impact on the results.
 - Discuss which other hyper-parameters you did not test (if any), but would you test if you had more time. 
 - What if you used Brute Force to solve the problem? How would you do it? What would be the complexity of the Brute Force approach?
+- Optional: compare the results of the GA with the Brute Force approach while increasing the size of the hidden sentence.
 
 ## Expected Outcomes:
   - A Jupyter notebook for the optimization of a simple problem.
@@ -29,4 +30,11 @@
     - Comment on the results.
     - Provide **direct** answer to the questions in the [Implementing GA](#implementing-ga-provide-these-answers-in-the-jupyter-notebook) section.
 
+## Installation
+If you have [Poetry](https://github.com/hei-synd-aml/lab-0-TutoPoetry) on your machine, you can install the dependencies by running the following command in the root directory of the project (where the pyproject.toml file is located):
+```bash
+poetry install
+```
+
+If you don't have Poetry installed, you can install the dependencies using pip (as usual, we strongly suggest to create a virtual environment).
 
