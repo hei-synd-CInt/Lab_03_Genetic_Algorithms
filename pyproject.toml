@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "w3-hd2"
+name = "Lab_03_GA"
 version = "0.1.0"
 description = ""
 authors = ["Francesco Carrino <francesco.carrino@hes-so.ch>"]
