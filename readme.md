@@ -31,7 +31,7 @@
     - Provide **direct** answer to the questions in the [Implementing GA](#implementing-ga-provide-these-answers-in-the-jupyter-notebook) section.
 
 ## Installation
-If you have [Poetry](https://github.com/hei-synd-aml/lab-0-TutoPoetry) on your machine, you can install the dependencies by running the following command in the root directory of the project (where the pyproject.toml file is located):
+If you have [Poetry](https://github.com/hei-synd-aml/lab-0-TutoPoetry) on your machine, you can install the dependencies by running the following command in the root directory of the project (where the `pyproject.toml` file is located):
 ```bash
 poetry install
 ```
